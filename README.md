@@ -10,8 +10,11 @@ At the moment this Library contains the following parts:
  - LQM2HPN_G0
  - TLV61046A
  - TPS6103*
- - 
+ - TPS6123*
+ - TPS61240*
+ - TPS63002?
+ - ZX62-B-5PA(33)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODM0OTg3MjNdfQ==
+eyJoaXN0b3J5IjpbOTg1NTgwNDkzXX0=
 -->
